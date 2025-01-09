@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "803698196068",
+    "project_id": "quickbites-3ab35",
+    "storage_bucket": "quickbites-3ab35.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803698196068:android:c9b906d6c574e7b8342971",
+        "android_client_info": {
+          "package_name": "com.example.foodOrderingApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdr7QucQ9I0lixaNIzKI0QyURkhTtL9yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803698196068:android:ba4756e5f203a6ac342971",
+        "android_client_info": {
+          "package_name": "com.example.food_ordering_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdr7QucQ9I0lixaNIzKI0QyURkhTtL9yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803698196068:android:8c21adea893ac0ab342971",
+        "android_client_info": {
+          "package_name": "com.quickbites.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdr7QucQ9I0lixaNIzKI0QyURkhTtL9yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
